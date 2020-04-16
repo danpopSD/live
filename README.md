@@ -33,7 +33,9 @@ Please drop all ideas in the [official issue tracker](https://github.com/setns/l
 <p align="center"><b><a href="https://bit.ly/2RHM4MG">twitch.tv/setns</a></b></p>
 <p align="center"><a href="https://bit.ly/2K479wO"><img src="img/Twitch.png" width="360"></a></p>
 
+### Want a free trial of Sysdig?
 
+ Sign up for a 30 day free trial: https://sysdig.com/company/free-trial/
 <hr>
 
 <p align="center"><b>Brought to you by</b></p>
